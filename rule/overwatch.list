@@ -1,0 +1,24 @@
+# 官网只提供了这几个，我没收集其他的
+
+# DOMAIN
+DOMAIN-SUFFIX,overwatch.com
+
+# IP
+# The Americas
+# US West
+IP-CIDR,24.105.30.129/32,no-resolve
+# US Central
+IP-CIDR,24.105.62.129/32,no-resolve
+
+# Brazil (Americas)	
+IP-CIDR,54.207.107.12/32,no-resolve
+
+# Europe	
+IP-CIDR,185.60.114.159/32,no-resolve
+IP-CIDR,185.60.112.157/32,no-resolve
+
+# Korea	
+IP-CIDR,211.234.110.1/32,no-resolve
+
+# Taiwan	
+IP-CIDR,5.42.160.129/32,no-resolve
