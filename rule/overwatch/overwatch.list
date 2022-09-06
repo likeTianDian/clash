@@ -26,3 +26,4 @@ IP-CIDR,5.42.160.129/32,no-resolve
 
 # custom
 IP-CIDR,34.126.108.166/24,no-resolve
+IP-CIDR,35.240.226.92/24,no-resolve
